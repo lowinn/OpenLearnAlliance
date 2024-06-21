@@ -1,5 +1,5 @@
 ---
-title: OpenLearn Alliance
+title: About us
 description: Welcome to OpenLearn Alliance
 ---
 
